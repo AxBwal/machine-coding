@@ -1,0 +1,14 @@
+.Outer-class {
+    width: 90%;
+    border: 2px solid red;
+    padding: 10px;
+}
+
+.button-10 {
+    display: flex;
+    gap: 10px;
+    margin: 20px;
+}
+.Outer-class > div {
+    transition: width 0.3s ease-in-out;
+}
