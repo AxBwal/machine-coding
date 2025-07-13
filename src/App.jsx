@@ -1,10 +1,11 @@
 import React from 'react'
-import ProgressBar from './Components/Progress/Progressbar'
+import ListofPage from './ListofPage'
+
 
 export default function App() {
   return (
     <div>
-      <ProgressBar/>
+    <ListofPage/>
     </div>
   )
 }
